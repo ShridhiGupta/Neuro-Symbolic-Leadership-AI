@@ -2,7 +2,7 @@
 
 A production-ready AI system that analyzes leadership traits across different cultural contexts using neural networks combined with symbolic reasoning.
 
-## 🎯 Overview
+## Overview
 
 This system evaluates leadership capabilities by:
 - Analyzing resumes and written responses
@@ -10,7 +10,7 @@ This system evaluates leadership capabilities by:
 - Applying cultural context through symbolic reasoning
 - Providing explainable recommendations for development
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -25,7 +25,7 @@ This system evaluates leadership capabilities by:
                        └─────────────────┘    └─────────────────┘
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.9+
@@ -68,7 +68,7 @@ npm start
 
 Visit http://localhost:3000 to access the application.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 neuro-symbolic-leadership-ai/
@@ -93,7 +93,7 @@ neuro-symbolic-leadership-ai/
 └── README.md
 ```
 
-## 🧠 Core Components
+## Core Components
 
 ### 1. Neural Processing Layer
 - **Sentence Transformers**: all-MiniLM-L6-v2 for embedding generation
@@ -110,7 +110,7 @@ neuro-symbolic-leadership-ai/
 - **Dynamic rule adaptation**: Context-aware evaluation
 - **Cultural norms database**: JSON-based knowledge base
 
-## 🔧 Technology Stack
+## Technology Stack
 
 ### Backend
 - **FastAPI**: High-performance web framework
@@ -130,7 +130,7 @@ neuro-symbolic-leadership-ai/
 - **NumPy**: Numerical computations
 - **Custom rule engine**: Symbolic reasoning
 
-## 📊 Features
+## Features
 
 ### Input Processing
 - Resume upload (PDF/TXT)
@@ -149,27 +149,27 @@ neuro-symbolic-leadership-ai/
 - Cultural insights
 - Development recommendations
 
-## 🎯 Evaluation Metrics
+## Evaluation Metrics
 
 - **Accuracy**: Trait prediction accuracy
 - **Interpretability**: Explainability score
 - **Cultural Sensitivity**: Cross-cultural validation
 - **User Satisfaction**: Feedback-based improvement
 
-## 🔒 Privacy & Security
+## Privacy & Security
 
 - **Local Processing**: No external API calls
 - **Data Privacy**: All processing happens locally
 - **No Cloud Dependencies**: Fully self-contained
 
-## 📈 Performance
+## Performance
 
 - **Processing Time**: <5 seconds per assessment
 - **Memory Usage**: <2GB RAM
 - **Model Size**: <500MB local models
 - **Accuracy**: >85% trait detection
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -177,11 +177,11 @@ neuro-symbolic-leadership-ai/
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
+## License
 
 MIT License - see LICENSE file for details
 
-## 📞 Support
+## Support
 
 For questions and support:
 - Create an issue in the repository
