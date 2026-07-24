@@ -188,4 +188,3 @@ For questions and support:
 - Check the documentation in `/docs`
 - Review the FAQ in the wiki
 
----
