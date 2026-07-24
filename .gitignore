@@ -1,5 +1,3 @@
-# Neuro-Symbolic Leadership AI - Root .gitignore
-
 # Environment variables
 .env
 .env.local
