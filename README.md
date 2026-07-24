@@ -187,4 +187,3 @@ For questions and support:
 - Create an issue in the repository
 - Check the documentation in `/docs`
 - Review the FAQ in the wiki
-
